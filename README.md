@@ -9,3 +9,9 @@
 - Computer Vision Project Idea – Image segmentation is the process of dividing an image into multiple segments
 - It is very useful in finding meanings from the image
 - They are used in object detection of self-driving cars.
+
+### Progress
+- Tech Stack - `WIP`
+    CV - from scratch, not viable
+    OpenCV - buggy, deps hell -> good side is tons of resources
+    LibCV etc - not intuitive
