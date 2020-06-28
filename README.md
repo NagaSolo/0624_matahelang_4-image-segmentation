@@ -15,3 +15,4 @@
     CV - from scratch, not viable
     OpenCV - buggy, deps hell -> good side is tons of resources
     LibCV etc - not intuitive
+    SimpleCV - `TBD`
